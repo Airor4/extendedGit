@@ -12,6 +12,7 @@ Documentation     <ID - Title> \n\n
 # Replace the following tags with relevant information to the test case
 # Force Tags        <Customer>   <Platform>   <OS>   <Feature>
 
+# Lets test that this comment is updated
 # CXTA
 Library  CXTA
 Resource  cxta.robot
